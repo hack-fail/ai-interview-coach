@@ -1,4 +1,4 @@
-# 🎯 AI Interview Coach
+#  AI Interview Coach
 
 An AI-powered mock interview platform that analyses your resume, generates tailored interview questions, and provides real-time feedback on your answers.
 
@@ -10,7 +10,7 @@ Built with **FastAPI + React + LLaMA 3 (via Groq)**
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📄 **Resume Analysis** — Upload your PDF resume and get instantly profiled as Fresher, Mid-Level, or Expert
 - 🤖 **AI Interview Questions** — Dynamically generated questions tailored to your experience and skills
@@ -20,7 +20,7 @@ Built with **FastAPI + React + LLaMA 3 (via Groq)**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - [FastAPI](https://fastapi.tiangolo.com/) — Python web framework
